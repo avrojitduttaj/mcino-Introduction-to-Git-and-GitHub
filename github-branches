@@ -1,0 +1,6 @@
+PS C:\Users\avroj\Desktop\C\mcino-Introduction-to-Git-and-GitHub> git branch -a -v
+* main                        1c05ecf Add first merge terminal output
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo ad95b0a Create close_pr.yml
+  remotes/origin/main         1c05ecf Add first merge terminal output
+PS C:\Users\avroj\Desktop\C\mcino-Introduction-to-Git-and-GitHub> 
